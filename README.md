@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: (https://github.com/KaueACLima/projeto-incricao-evento)
-- URL do site ativo: (https://github.com/KaueACLima/projeto-aprenser)
+- URL do site ativo: (https://kaueaclima.github.io/projeto-incricao-evento/)
 
 
 ### Construído com
